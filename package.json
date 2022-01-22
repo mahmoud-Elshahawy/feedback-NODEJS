@@ -4,7 +4,7 @@
   "description": "Feedback system build with NODEJS, REACTJS and MongoDB",
   "main": "index.js",
   "engines": {
-    "node": "16.3.2",
+    "node": "6.11.1",
     "npm": "8.1.2"
   },
   "scripts": {
