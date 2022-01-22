@@ -4,8 +4,8 @@
   "description": "Feedback system build with NODEJS, REACTJS and MongoDB",
   "main": "index.js",
   "engines": {
-    "node": "8.1.1",
-    "npm": "5.0.3"
+    "node": "16.3.2",
+    "npm": "8.1.2"
   },
   "scripts": {
     "start": "node index.js",
