@@ -9,6 +9,7 @@ mongoose.connect(keys.mongoURI);
 // Create Express APP 
 const app = express(); 
 
+// Session experation period and key creation.
 app.use(
     cookieSession({
         maxAge: 30*24*60*60*100,
